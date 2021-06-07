@@ -1,0 +1,32 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.green-box {
+	width: 500px;
+	height: 250px;
+	background: green;
+	position: relative;
+	bottom: 0;
+	left: 0;
+	top: 0;
+	right: 0;
+	margin: auto;
+}
+.red-box {
+	width: 150px;
+	height: 150px;
+	background: red;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	top: 0;
+	right: 0;
+	margin: auto;
+	border-radius: 50%;
+}
+
+
+
+
